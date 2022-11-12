@@ -54,4 +54,6 @@ body {
 .white {
     border: 1px solid #ef9191;
     background-color: #ef9191;
+    align-items: center;
+    width:fit-content;
 }
