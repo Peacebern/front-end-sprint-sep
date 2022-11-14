@@ -1,31 +1,11 @@
 header {
     background-color: white;
-    height: 70px;
-    width: 100%;
-    border-bottom: 1px solid #cccccc;
     display: flex;
     justify-content:space-between;
+    border-bottom: 1px solid #cccccc;
+    height: 50px;
 }
-
-/* header .logo {
-    width: 150px;
-    height: 100px;
-    padding-top: 20px;
-    background: url("../images/cat.png") no-repeat center;
-    left: 20px;
-    object-fit: cover;
-    position: relative; 
-} */
-
-header .logo {
-    padding-top: 20px;
+header .welcome {
+    margin-right: 30px;
+    font-size:large;
 }
-
-/* header .text {
-    text-align: center;
-    position: relative;
-    top: 60%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: black;
-} */
